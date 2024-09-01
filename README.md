@@ -18,6 +18,7 @@ Justin Case
 CTO  
 IX Inc.  
 
+![Vecta Corporation pic](header.gif)
 Contact [Vecta Corporation](https://acw-group.com.hk/acw_distribution/events/VectaCorp/default.htm)  
 Vecta Corporation  
 555 Technology Place  
